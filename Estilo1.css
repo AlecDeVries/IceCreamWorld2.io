@@ -1,0 +1,16 @@
+h1{
+    color: darkorange; font-size: 100px; background-color: aquamarine;
+}
+#a{
+    color: orange;
+
+}
+#b{
+    font-size: 60px; background-color: rgba(180, 255, 109, 0.911);
+}
+.texto_sugerencia{
+    color: blue; font-size: 80px;
+}
+*{
+    color: rgb(160, 0, 0); background-color: rgba(0, 14, 19, 0.164);
+}
